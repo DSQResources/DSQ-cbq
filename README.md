@@ -26,6 +26,12 @@ Is there software in the work space? Can it also be restored quickly?
   * If you have any ideas, please go to [issues].
   * You can provide any extra resources in the `/resources` directory via [pull request].
 
+## Please contribute!
+
+  * [Want to propose a new resource?](https://github.com/DSQResources/DSQ-cbq/issues/new)
+  * [Want to report an issue / give a feedback?](https://github.com/DSQResources/DSQ-cbq/issues/new)
+  * [We also welcome pull requests!](https://github.com/DSQResources/DSQ-cbq/pulls)
+
 ----
 
 *Do not edit this README file by hand, it is automatically generated*
